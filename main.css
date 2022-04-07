@@ -166,3 +166,10 @@
 	color: #016FF9;
 	letter-spacing: 1px;
 }
+
+.syarat-container {
+	padding-left: 10px;
+	padding-right: 10px;
+	background-color: #fff;
+	border-radius: 5px;
+}
